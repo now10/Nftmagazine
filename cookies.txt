@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	BTVd6DBjH1Y0h67_o2WSDCEh_EGo2BShNXJO8m9VFQk-1746381949-1.0.1.1-z8.BTYkOuQrrLNm77uvpkisKu7WjV1AYXVaCCzi2xqFCWusLTAb7J7aJvdGPQth.
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	FSBafK7RlTDrHmCk8rJs.J_lbfiNhxGyEdPWuoZNgGU-1746381949366-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.nft-magazine.com	TRUE	/	FALSE	1999999999	_cfuvid	E9pCKFbtVERmFenvOAzqKvW1chyrB_AP0_SX3ZTqSy8-1746382407515-0.0.1.1-604800000
+www.nft-magazine.com	TRUE	/	FALSE	1999999999	SameSite	None
+
